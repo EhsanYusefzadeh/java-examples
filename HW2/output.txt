@@ -1,0 +1,51 @@
+Book Title: C++
+Book Number of Pages: 400
+Book Price: 40.0
+Book Quantity: 100
+Book Title: Java
+Book Number of Pages: 300
+Book Price: 40.0
+Book Quantity: 100
+Book Title: C++Cliff
+Book Number of Pages: 66
+Book Price: 20.0
+Book Quantity: 100
+Nothing
+C++
+Java
+C++Cliff
+Nothing
+200.0
+Nothing
+40.0
+Nothing
+0.0
+C++
+ --------------------- 
+Java
+ --------------------- 
+C++Cliff
+ --------------------- 
+Perl, Learn How to Program!
+ --------------------- 
+CPP Yes
+Java YES
+C++
+ --------------------- 
+Java
+ --------------------- 
+C++Cliff
+ --------------------- 
+Perl, Learn How to Program!
+ --------------------- 
+In Stock YES
+C++
+ --------------------- 
+Java
+ --------------------- 
+C++Cliff
+ --------------------- 
+Perl, Learn How to Program!
+ --------------------- 
+800.0
+

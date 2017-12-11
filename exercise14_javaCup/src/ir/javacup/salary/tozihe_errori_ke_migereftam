@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h1>دلیل خطایی که در کویرا می خوردم</h1>
+    <div>
+        <p>روی سوال تآکید کرده است که:</p>
+    </div>
+    <div>
+        <p>پس از آخرین سطر نباید از هیچ کاراکتری استفاده شود.</p>
+    </div>
+    <div>
+        <p>منم در آخر بعد از ساختن رشته زیر رشته فاقد آخرین کاراکتر را برگرداندم تا آخری که اضافه است حذف گردد</p>
+    </div>
+</body>
+</html>
